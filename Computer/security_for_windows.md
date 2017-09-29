@@ -6,7 +6,7 @@
 
 確認更新設定內容：
 
-- Windows 7
+- Windows 7, Windows 8, Windows 8.1
 
     - 開啟 **我的電腦**
     - 點選 **開啟控制台**
