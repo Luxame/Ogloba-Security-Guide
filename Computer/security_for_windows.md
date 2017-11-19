@@ -21,3 +21,9 @@
 ||Microsoft Security Essentials|Windows Defender|Avira|
 |:-----:|:-----:|:-----:|:-----:|
 |廠商 / 國家|微軟 / 美國|微軟 / 美國|Avira / 德國|
+|防護範圍|系統|系統|系統 + 瀏覽器|
+|安裝難易度 / 下載|簡單 / 官網|簡單 / 內建|中等 / 官網 |
+|設定複雜度|簡單|簡單|複雜|
+|更新頻率 / 手、自動|一天至少一次 / 手、自動|一天至少一次 / 手、自動|一天多次 / 手、自動|
+|下載|[Website](https://www.microsoft.com/en-us/download/details.aspx?id=5201)|X|[Website](https://www.avira.com/)|
+|系統支援|Windows 7|Windows 8 或以上|Windows全系列|
