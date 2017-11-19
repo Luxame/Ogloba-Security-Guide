@@ -26,4 +26,14 @@
 |設定複雜度|簡單|簡單|複雜|
 |更新頻率 / 手、自動|一天至少一次 / 手、自動|一天至少一次 / 手、自動|一天多次 / 手、自動|
 |下載|[Website](https://www.microsoft.com/en-us/download/details.aspx?id=5201)|X|[Website](https://www.avira.com/)|
-|系統支援|Windows 7|Windows 8 或以上|Windows全系列|
+|系統支援|Windows 7|Windows 8 或以上|Windows 全系列|
+
+||Avast|Bitdefender Antivirus Free Edition||
+|:-----:|:-----:|:-----:|:-----:|
+|廠商 / 國家|Avast / 捷克布拉格|Softwin / 羅馬尼亞||
+|防護範圍|系統 + 郵件 + 瀏覽器|系統||
+|安裝難易度 / 下載|中等 / 官網|簡單 / 官網||
+|設定複雜度|複雜|簡單||
+|更新頻率 / 手、自動|一天多次 / 手、自動|一天多次 / 自動||
+|下載|[Website](https://www.avast.com/en-us/mac)|X|[Website](https://www.bitdefender.com/solutions/free.html)|
+|系統支援|Windows 全系列|Windows 全系列||
