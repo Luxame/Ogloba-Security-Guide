@@ -15,3 +15,9 @@
     - 確認 [重要更新] 中設定是否為 **自動安裝更新（建議選項）**
 
 - Windows 10
+
+## 防毒軟體
+
+||Microsoft Security Essentials|Windows Defender|Avira|
+|:-----:|:-----:|:-----:|:-----:|
+|廠商 / 國家|微軟 / 美國|微軟 / 美國|Avira / 德國|
