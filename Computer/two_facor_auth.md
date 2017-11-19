@@ -1,4 +1,4 @@
-# Two-factor authentication
+# Two-Factor Authentication
 
 ## 介紹
 
