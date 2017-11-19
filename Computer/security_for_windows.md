@@ -35,5 +35,5 @@
 |安裝難易度 / 下載|中等 / 官網|簡單 / 官網||
 |設定複雜度|複雜|簡單||
 |更新頻率 / 手、自動|一天多次 / 手、自動|一天多次 / 自動||
-|下載|[Website](https://www.avast.com/en-us/mac)|X|[Website](https://www.bitdefender.com/solutions/free.html)|
+|下載|[Website](https://www.avast.com/en-us/mac)|[Website](https://www.bitdefender.com/solutions/free.html)||
 |系統支援|Windows 全系列|Windows 全系列||
