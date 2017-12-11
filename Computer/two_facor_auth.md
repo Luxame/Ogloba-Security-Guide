@@ -15,6 +15,10 @@
 
 ![My Account](/computer/images/2fa001.PNG)
 
+2.選擇 **Sign-in & security** 下的 `Signing in to Google`
+
+![](/computer/images/2fa002.PNG)
+
 ## 參考資料
 
 [維基百科 - 雙重認證](https://zh.wikipedia.org/wiki/%E9%9B%99%E9%87%8D%E8%AA%8D%E8%AD%89)
