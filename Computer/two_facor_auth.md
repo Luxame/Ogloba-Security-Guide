@@ -11,8 +11,8 @@
 
 - Google
 
-1. 點選 ##Google apps## ，選擇 `My Account`
-![My Account](../Computer/Pictures/2fa001.png)
+1. 點選 **Google apps** ，選擇 `My Account`
+![My Account](/Computer/Pictures/2fa001.png)
 
 ## 參考資料
 
