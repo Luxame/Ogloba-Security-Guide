@@ -35,7 +35,7 @@
 
 -----
 
-- Google prompt：安裝 Google App 當從沒認證過的地點登入時會從 `Google App` 跳出詢問。
+- Google prompt：安裝 **Google App** 當從沒認證過的地點登入時會從 `Google App` 跳出詢問。
   - [Android](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&hl=en)
   - [iOS](https://itunes.apple.com/us/app/google/id284815942?mt=8)
 - Authenticator app：下載 `Authenticator app` 產生驗證碼，透過輸入驗證碼來驗證使用者。
