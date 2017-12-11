@@ -39,6 +39,8 @@
   - [Android](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox&hl=en)
   - [iOS](https://itunes.apple.com/us/app/google/id284815942?mt=8)
 - Authenticator app：下載 `Authenticator app` 產生驗證碼，透過輸入驗證碼來驗證使用者。
+  - [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW)
+  - [iOS](https://itunes.apple.com/tw/app/google-authenticator/id388497605?mt=8)
 - Voice or text message：語音或是簡訊告知驗證碼，然後輸入驗證碼來驗證使用者。
 - Backup codes：提供一次性的 10 組序號來驗證使用者，用完 10 組需重新產生序號。
 
