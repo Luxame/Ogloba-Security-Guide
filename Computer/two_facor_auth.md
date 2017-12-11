@@ -13,7 +13,7 @@
 
 1. 點選 **Google apps** ，選擇 `My Account`
 
-![My Account](/computer/images/2fa001.png)
+![My Account](/computer/images/2fa001.PNG)
 
 ## 參考資料
 
