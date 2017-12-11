@@ -15,9 +15,13 @@
 
 ![My Account](/computer/images/2fa001.PNG)
 
-2.選擇 **Sign-in & security** 下的 `Signing in to Google`
+2. 選擇 **Sign-in & security** 下的 `Signing in to Google`
+
 
 ![](/computer/images/2fa002.PNG)
+3. 選擇 **Password & sign-in method** 下的 `2-Step Verification`
+
+![](/computer/images/2fa003.PNG)
 
 ## 參考資料
 
