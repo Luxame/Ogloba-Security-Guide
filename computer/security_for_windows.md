@@ -1,12 +1,12 @@
 # OS Security - Windows
 
-## 安全性更新
+## Update
 
-系統更新能避免多數的安全攻擊。**建議將自動更新開啟**
+By opening "Auto Update" function to update OS can reduce computer security threats.
 
-確認更新設定內容：
+Confirm Update Content :
 
-- Windows 7, Windows 8, Windows 8.1
+- OS : Windows 7, Windows 8, Windows 8.1
 
     - 開啟 **我的電腦**
     - 點選 **開啟控制台**
